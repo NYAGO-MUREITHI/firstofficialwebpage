@@ -13,4 +13,11 @@ p {
 ul {
     line-height: 40px;
 }
+body {
+      background-color: blue;
+}
+ol {
+    font-size: 14;
+    color: red;
+    font-style: bold;
    	
