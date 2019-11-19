@@ -5,10 +5,11 @@ h1 {
 h2 {	
    color: green;
    text-align: center;
-   font-style: italic;
+   font-style: bold;
 }
 p {
    font-family: sans-serif;
+   font-style: italic
 }
 ul {
     line-height: 40px;
@@ -20,4 +21,11 @@ ol {
     font-size: 14;
     color: red;
     font-style: bold;
+}
+em {
+      font-style: bold;
+}
+strong {
+        font-style: italic;
+}
    	
